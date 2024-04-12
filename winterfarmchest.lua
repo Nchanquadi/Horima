@@ -59,7 +59,7 @@ Converted["_Frame1"].Parent = Converted["_Frame"]
 
 Converted["_UICorner"].Parent = Converted["_Frame1"]
 
-Converted["_StrawLogo"].Image = "rbxassetid://17008182824"
+Converted["_StrawLogo"].Image = "rbxassetid://17110466126"
 Converted["_StrawLogo"].BackgroundColor3 = Color3.fromRGB(206, 119, 230)
 Converted["_StrawLogo"].BorderColor3 = Color3.fromRGB(240, 128, 128)
 Converted["_StrawLogo"].BorderSizePixel = 0
